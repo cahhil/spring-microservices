@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RestfulWebservicesApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="TEMP" value="C:\Windows\TEMP" />
+      <env name="TMP" value="$PROJECT_DIR$/../../../../TEMP" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="com.shareat.rest.webservices.restfulwebservices.RestfulWebservicesApplication" />
+    <module name="restful-webservices" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.shareat.rest.webservices.restfulwebservices.exception.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
